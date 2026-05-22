@@ -1,2 +1,2 @@
 cambio realizado desde pc2 
-creado desde pc2 para seguir aprendiendo 
+creado desde pc1 para seguir aprendiendo y generar conflicto
